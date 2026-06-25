@@ -1,27 +1,28 @@
 ## Hi there 👋 I am kk
 
-> 前端学习者 | Vue 技术栈 | 热爱写代码
+💻 **前端开发 | Vue 技术栈**
+- 擅长 Vue 3 + JavaScript + HTML + CSS，能独立完成完整前端项目
+- 熟悉工程化工具 Vite、Pinia、Vue Router、Element Plus、ECharts
+- 具备前后端联调经验，理解 HTTP 请求响应拦截、token 鉴权、路由权限控制
 
-### 🛠 Tech Stack
-
-![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![uni-app](https://img.shields.io/badge/uni--app-2B9939?logo=uni-app&logoColor=white)
-![微信小程序](https://img.shields.io/badge/微信小程序-07C160?logo=wechat&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-### 📦 项目
+📦 **项目**
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| [小兔鲜电商](https://github.com/mmnlop11-lang/xiaotuxian) | 电商后台管理 + 用户端，含订单管理、支付、数据仪表盘 | Vue3 + Element Plus + Pinia + Vite |
-| [咸虾米壁纸](https://github.com/mmnlop11-lang/xxm-wallpaper) | 跨平台壁纸小程序，分类浏览、搜索、下载 | uni-app + Vue3 |
+| [小兔鲜电商](https://github.com/mmnlop11-lang/xiaotuxian) | C 端前台 + 管理后台，16 条路由、50+ 组件。含 SKU 选择器、图片放大镜、购物车、支付、数据仪表盘等功能 | Vue3 + Vite + Pinia + Element Plus + ECharts |
+| [咸虾米壁纸](https://github.com/mmnlop11-lang/xxm-wallpaper) | 跨平台壁纸小程序，分类浏览、搜索、下载、收藏 | uni-app + Vue3 |
 
-### 📊 GitHub 统计
+🌱 **正在学习**
+- TypeScript 深入
+- React / Next.js 入门（拓宽技术栈）
+- 前端性能优化与工程化实践
 
-![kk GitHub stats](https://github-readme-stats.vercel.app/api?username=mmnlop11-lang&show_icons=true&theme=default&locale=cn)
+📫 **联系方式**
+- Email: 20991555270@qq.com
+
+📊 **GitHub 统计**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmnlop11-lang&show_icons=true&theme=default&locale=cn)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mmnlop11-lang)](https://git.io/streak-stats)
 
 ---
 
