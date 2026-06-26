@@ -20,9 +20,19 @@
 📫 **联系方式**
 - Email: 20991555270@qq.com
 
-📊 **GitHub 统计**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmnlop11-lang&show_icons=true&theme=default&locale=cn)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mmnlop11-lang)](https://git.io/streak-stats)
+🎯 **关于我**
+- 2026 届应届毕业生，正在寻找前端开发岗位
+- 热爱前端，享受从 0 到 1 把设计稿变成可交互页面的过程
+- 自学能力较强，能通过文档和社区资源独立解决问题
+
+✨ **项目亮点**
+- **小兔鲜电商**：从 C 端购物到后台管理的完整电商闭环，深度实践了 Vue 3 组合式 API、Pinia 状态管理、动态路由权限控制
+- **咸虾米壁纸**：跨平台 uni-app 开发，一套代码适配 H5 + 微信小程序，掌握了跨端组件适配和条件编译
+
+📋 **求职意向**
+- 岗位：前端开发工程师
+- 地点：可面议
+- 到岗：随时
 
 ---
 
